@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Praveen Prabhat</h1>
 <h3 align="center">A passionate Frontend developer along with Data Scientist, and product management from India</h3>
 
-<img align="center" alt="Data Science" width="1200" src="https://blog.imarticus.org/wp-content/uploads/2020/05/co.gif">
+<img align="center" alt="Data Science" width="1200" height = "300" src="https://blog.imarticus.org/wp-content/uploads/2020/05/co.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenprabhat125&label=Profile%20views&color=0e75b6&style=flat" alt="praveenprabhat125" /> </p>
 
